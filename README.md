@@ -10,7 +10,7 @@ There are many many versions. Generally it is considered Public Domain software,
 
 This fork is based on [Werner Randelshofer's Java port](http://www.randelshofer.ch/blog/2010/07/screenmate-neko-in-java) and [this one aswell](https://github.com/glreno/oneko).
 
-The image files are ancient public domain.
+The image files were pulled from https://rdrama.net/ and adjusted accordingly to this project's sprite structure.
 The Java code for v.1.0 is (c) 2010 Werner Randelhofer.
 The Java code for v.2.0 (c) 2019 Gerald Reno
 
