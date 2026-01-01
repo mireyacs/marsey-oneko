@@ -13,6 +13,7 @@ This fork is based on [Werner Randelshofer's Java port](http://www.randelshofer.
 The image files were pulled from https://rdrama.net/ and adjusted accordingly to this project's sprite structure.
 
 The Java code for v.1.0 is (c) 2010 Werner Randelhofer.
+
 The Java code for v.2.0 (c) 2019 Gerald Reno
 
 links
